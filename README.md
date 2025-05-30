@@ -1,6 +1,6 @@
 # Frontend
 
-: Desarrolla un formulario de registro de usuarios con validación y despliegue de
+Desarrollo de un formulario de registro de usuarios con validación y despliegue de
 mensajes de error utilizando Reactive Forms..
 
 
